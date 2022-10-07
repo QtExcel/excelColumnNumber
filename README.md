@@ -1,6 +1,6 @@
 # excelNumber
 
-excelNumber namespace
+- Convert a column string in Excel to a number.
 
 ## Usgae 
 
