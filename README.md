@@ -2,6 +2,8 @@
 
 - Convert a column string in Excel to a number.
 
+- Using pure C++ and STL
+
 ## Usgae 
 
 ```cpp
