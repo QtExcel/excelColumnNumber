@@ -4,7 +4,7 @@
 
 - Using pure C++ and STL :kr: 씨플러스와 에스티엘만을 사용
 
-## Usgae 
+## Example
 
 ```cpp
 unsigned int debug1 = excelColumnNumber::excelColumnStingToNumber("AB");
