@@ -2,9 +2,9 @@
 
 #include "excelColumnNumber.h"
 
-namespace excelColumnNumber { // {{ begin of namespace
+namespace QXlsx { // {{ begin of namespace
 
-std::string convertFromNumberToExcelColumn(unsigned int n)
+std::string columnNumberToString(unsigned int n)
 {
     if (0 == n)
     {
@@ -68,7 +68,7 @@ unsigned int alphabetToNumber(char alphabet)
 	return ret; 
 }
 
-unsigned int excelColumnStingToNumber(std::string col)
+unsigned int columnStringToNumber(std::string col)
 {
     unsigned int ret = 0;
     unsigned int colSize = col.size();
