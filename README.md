@@ -1,4 +1,4 @@
-# excelColumnNumber
+# QXlsx::excelColumnNumber
 
 - Convert a column string in Excel to a number. 
   - :kr: 엑셀 컬럼 문자열을 숫자로 변환합니다.
