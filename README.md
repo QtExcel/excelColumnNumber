@@ -3,8 +3,8 @@
 - Convert a column string in Excel to a number. 
   - :kr: 엑셀 컬럼 문자열을 숫자로 변환합니다.
 
-- Using pure C++ and STL 
-  - :kr: 씨플러스와 에스티엘만을 사용
+- Using pure C++ and STL. I don't use Qt. 
+  - :kr: 씨플러스와 에스티엘만을 사용. 큐티는 사용하지 않습니다.
   
 ## Example
 
